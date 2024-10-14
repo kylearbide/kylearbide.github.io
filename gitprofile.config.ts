@@ -121,7 +121,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'AWS Certified Cloud Practitioner',
-      body: 'Lorem ipsum dolor sit amet',
+      body: 'The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology.',
       year: 'May 2024',
       link: 'https://www.credly.com/badges/13ba3cb6-6f12-423c-bf1e-065c77f5bc52/public_url',
     },
@@ -141,20 +141,20 @@ const CONFIG = {
     },
   ],
   publications: [
-    {
-      title: 'HTML Interactive',
-      conferenceName: '',
-      journalName: 'Medium',
-      authors: 'Kyle Arbide, Michael Goldstein',
-      link: 'https://medium.com/gopenai/html-interactive-a-custom-gpt-for-building-interactive-web-pages-2f66cac16ced',
-      description:
-        'A Custom GPT for building interactive web pages',
-    }
+    // {
+    //   title: 'HTML Interactive',
+    //   conferenceName: '',
+    //   journalName: 'Medium',
+    //   authors: 'Kyle Arbide, Michael Goldstein',
+    //   link: 'https://medium.com/gopenai/html-interactive-a-custom-gpt-for-building-interactive-web-pages-2f66cac16ced',
+    //   description:
+    //     'A Custom GPT for building interactive web pages',
+    // }
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'kyle.arbide', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
