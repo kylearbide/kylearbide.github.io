@@ -103,7 +103,8 @@ const CONFIG = {
     'Terraform',
     'Git',
     'Docker',
-    "HuggingFace"
+    "HuggingFace",
+    'RDF'
   ],
   experiences: [
     {
