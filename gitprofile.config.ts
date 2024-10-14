@@ -95,9 +95,12 @@ const CONFIG = {
     'R',
     'PostgreSQL',
     'MySQL',
+    'SQLite',
     'Neo4j',
     'AllegroGraph',
+    'MongoDB',
     'AWS',
+    'Terraform',
     'Git',
     'Docker',
     "HuggingFace"
