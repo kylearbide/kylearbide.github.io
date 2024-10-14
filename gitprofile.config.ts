@@ -87,7 +87,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://kylearbide.github.io/kylearbide-portfolio-old/assets/resume_cover_letters/RESUME_Arbide_Kyle_May_2024.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -169,7 +169,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'light',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
