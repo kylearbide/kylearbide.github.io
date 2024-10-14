@@ -87,7 +87,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://kylearbide.github.io/gitprofile/RESUME_Arbide_Kyle_May_2024.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://kylearbide.github.io/resumes/RESUME_Arbide_Kyle_May_2024.docx.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
