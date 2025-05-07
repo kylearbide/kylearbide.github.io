@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'A custom agent for the Hugging Face Agents course. Designed to answer questions from the GAIA dataset. Uses tools such as transcription, wikipedia search, file download, and more.',
           imageUrl:
-            'https://huggingface.co/front/thumbnails/learn/agents-course.png',
+            'https://cdn-avatars.huggingface.co/v1/production/uploads/60cae820b1c79a3e4b436664/gSOeYxuhnE0U0HFeh__wA.png',
           link: 'https://huggingface.co/spaces/kylea/GAIA_Agent_Space/tree/main',
         },
         // {
@@ -129,6 +129,12 @@ const CONFIG = {
       body: 'The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology.',
       year: 'May 2024',
       link: 'https://www.credly.com/badges/13ba3cb6-6f12-423c-bf1e-065c77f5bc52/public_url',
+    },
+    {
+      name: 'Hugging Face Course - Agents',
+      body: 'The Hugging Face Agents course is a comprehensive program that teaches you how to build and deploy AI agents using the latest libraries, models, and tools.',
+      year: 'May 2024',
+      link: 'https://kylearbide.github.io/certs/agents_course_certificate.pdf',
     },
   ],
   educations: [
