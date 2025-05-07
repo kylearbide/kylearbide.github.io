@@ -133,7 +133,7 @@ const CONFIG = {
     {
       name: 'Hugging Face Course - Agents',
       body: 'The Hugging Face Agents course is a comprehensive program that teaches you how to build and deploy AI agents using the latest libraries, models, and tools.',
-      year: 'May 2024',
+      year: 'May 2025',
       link: 'https://kylearbide.github.io/certs/agents_course_certificate.pdf',
     },
   ],
