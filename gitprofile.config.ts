@@ -36,17 +36,18 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Hugging Face Projects',
+      display: true, // Display External Projects?
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        // {
-        //   title: 'Project Name',
-        //   description:
-        //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-        //   imageUrl:
-        //     'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-        //   link: 'https://example.com',
-        // },
+        {
+          title: 'Agents Course GAIA Agent',
+          description:
+            'A custom agent for the Hugging Face Agents course. Designed to answer questions from the GAIA dataset. Uses tools such as transcription, wikipedia search, file download, and more.',
+          imageUrl:
+            'https://huggingface.co/front/thumbnails/learn/agents-course.png',
+          link: 'https://huggingface.co/spaces/kylea/GAIA_Agent_Space/tree/main',
+        },
         // {
         //   title: 'Project Name',
         //   description:
